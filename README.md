@@ -24,9 +24,9 @@ This project utilizes the following Python libraries:
 ## Project Structure
 
 - **app.py**: The core application file where the FastAPI app and routes are defined.
-- **test_app.py**: Contains all unit tests, demonstrating the TDD approach.
-- **locustfile.py**: Used for stress testing the application to ensure it handles desired load.
-- **requirements.txt**: Lists all project dependencies, ensuring reproducibility of the environment.
+- **test_app.py**: Contains all unit test.
+- **locustfile.py**: Used for stress testing the application.
+- **requirements.txt**: Lists all project dependencies.
 
 ## Evidences
 
